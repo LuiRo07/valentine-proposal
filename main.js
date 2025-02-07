@@ -6,12 +6,12 @@ const yesResponse = document.querySelector('.yes-response');
 let yes = false;
 const responses = [
     "Are you sure?",
-    "Is that your final answer",
+    "Is that your final answer?",
     "don't be mean",
     "I know you don't mean that",
     "come on babe",
     "You're gonna make me sad",
-    "Come on pookie"
+    "Babe ;'("
 ]
 
 function handleYesResponse() {
